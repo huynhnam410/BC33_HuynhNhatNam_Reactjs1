@@ -10,7 +10,6 @@ export default class Body extends Component {
       <Banner/>
       <Item/>
       </div>
-      
       </>
     )
   }
